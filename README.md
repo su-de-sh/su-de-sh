@@ -4,7 +4,7 @@
 
 <img src="https://www.codewars.com/users/su-de-sh/badges/large" />
 
-<img  height=90% src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact" />
+
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git)](https://skills.thijs.gg)
 
