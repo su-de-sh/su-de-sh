@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook)](https://github.com/su-de-sh/github-readme-stats)
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git,redux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git,redux,mui)](https://skills.thijs.gg)
 
 
 
