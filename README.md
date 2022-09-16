@@ -1,6 +1,7 @@
 👋Hello World! I'm Sudesh!!💻 
 
 <img src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />
+ <img src = "https://github-readme-streak-stats.herokuapp.com?user=su-de-sh&theme=radical" width = 400>
 
 <img src="https://www.codewars.com/users/su-de-sh/badges/large" />
 
