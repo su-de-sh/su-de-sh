@@ -1,11 +1,12 @@
-👋Hello World! I'm Sudesh!!💻 
+                                                  👋Hello World! I'm Sudesh!!💻 
 
-<img src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=su-de-sh&theme=radical" width = 400>
+<img  src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />
+
+<p>  <img src = "https://github-readme-streak-stats.herokuapp.com?user=su-de-sh&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook"  height=200/><p/>
+
 
 <img src="https://www.codewars.com/users/su-de-sh/badges/large" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook)](https://github.com/su-de-sh/github-readme-stats)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git,redux,mui,postgres)](https://skills.thijs.gg)
 
