@@ -6,8 +6,8 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook"  height=200/><p/>
 
 
-<img src="https://www.codewars.com/users/su-de-sh/badges/large" />
 
+<img src="https://www.codewars.com/users/su-de-sh/badges/large" />
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git,redux,mui,postgres)](https://skills.thijs.gg)
 
 
