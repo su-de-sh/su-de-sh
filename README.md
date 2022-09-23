@@ -8,6 +8,7 @@
 
 
 <img src="https://www.codewars.com/users/su-de-sh/badges/large" />
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,express,react,nodejs,git,redux,mui,postgres)](https://skills.thijs.gg)
 
 
