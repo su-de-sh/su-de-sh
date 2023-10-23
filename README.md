@@ -31,6 +31,8 @@
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 
+[![An image of @sudesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudesh)](https://holopin.io/@sudesh)
+
 
 
 
