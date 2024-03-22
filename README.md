@@ -12,7 +12,7 @@
 
 # Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,mongodb,express,react,nextjs,nodejs,git,redux,mui,postgres,jest)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,mongodb,express,react,nextjs,nodejs,git,redux,mui,postgres,jest,d3)](https://skills.thijs.gg)
 
 # Additional Tools and Technologies
 
