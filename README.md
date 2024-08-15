@@ -13,7 +13,7 @@
 # Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nextjs,nodejs,git,redux,mui,postgres,jest,d3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nextjs,nodejs,git,redux,mui,tailwind,postgres,jest,d3)](https://skillicons.dev)
 
 # Additional Tools and Technologies
 
