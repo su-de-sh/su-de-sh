@@ -44,6 +44,6 @@
 [![My Skills](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://skills.thijs.gg)
 
 
-# Holopin Badges
+# Hactoberfest Badges
 
 [![An image of @sudesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudesh)](https://holopin.io/@sudesh)
