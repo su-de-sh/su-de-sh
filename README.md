@@ -1,7 +1,7 @@
 👋Hello World! I'm Sudesh!!💻 
 
 
-<a href="https://app.daily.dev/su_de_sh"><img src="https://api.daily.dev/devcards/v2/4OzBZMyBb1u98TnOYDcp1.png?r=hzl" width="356" alt="Sudesh Moteh's Dev Card"/></a>
+
 
 # GitHub Stats
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />  -->
