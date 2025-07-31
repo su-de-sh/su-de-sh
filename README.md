@@ -4,9 +4,15 @@
 
 
 # GitHub Stats
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />  -->
-<img  src = "https://github-readme-streak-stats.herokuapp.com?user=su-de-sh&theme=radical" />
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook"  height=200/> -->
+<img  src="https://github-readme-stats.vercel.app/api?username=su-de-sh&show_icons=true&theme=radical" />  
+<!---<img  src = "https://github-readme-streak-stats.herokuapp.com?user=su-de-sh&theme=radical" /> .--->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=su-de-sh&layout=compact&hide=python,jupyter%20notebook"  height=200/> 
+
+<div align="left">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=su-de-sh&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=su-de-sh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 # Codewars Badge
 
@@ -45,11 +51,6 @@
 
 ###
 
-<div align="left">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=su-de-sh&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=su-de-sh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 ###
 
 # Hactoberfest Badges
